@@ -1,0 +1,17 @@
+Relationship between AI and Big Data
+Big data and artificial intelligence have a synergistic relationship. AI requires a massive scale of data to learn and improve decision-making processes and big data analytics leverages AI for better data analysis. With this convergence, you can more easily leverage advanced analytics capabilities like augmented or predictive analytics and more efficiently surface actionable insights from your vast stores of data. With big data AI powered analytics, you can empower your users with the intuitive tools and robust technologies they need to extract high-value insights from data, fostering data literacy across your organization while reaping the benefits of becoming a truly data-driven organization.
+
+By bringing together big data and AI technology, companies can improve business performance and efficiency by:
+
+Anticipating and capitalizing on emerging industry and market trends.
+Analyzing consumer behavior and automating customer segmentation
+Personalizing and optimizing the performance of digital marketing campaigns
+Using intelligent decision support systems fueled by big data, AI, and predictive analytics
+AI Big Data Analytics.
+AI can assist users in all phases of the big data cycle, or the processes involved in the aggregation, storage, and retrieval of diverse types of data from various sources. These include data management, pattern management, context management, decision management, action management, goal management, and risk management.
+
+AI can identify data types, find possible connections among datasets, and recognize knowledge using natural language processing. It can be used to automate and accelerate data preparation tasks, including the generation of data models, and assist in data exploration. It can learn common human error patterns, detecting and resolving potential flaws in information. And it can learn by watching how the user interacts with an analytics program, surfacing unexpected insights from massive datasets fast. AI can also learn subtle differences in meaning, or context-specific nuances, in order to help users better understand numeric data sources. And it can alert users to anomalies or unexpected patterns in data, actively monitoring events and identifying potential threats from system logs or social networking data, for example.
+
+Synergy in Technology Innovation.
+Big data and artificial intelligence are also linked in terms of research and technological innovation for each field. Big data technology uses AI theories and methods and AI relies on large volumes of data and the supporting big data technologies to improve and evolve decision making capabilities.
+
